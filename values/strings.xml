@@ -350,5 +350,4 @@
     <string name="format_datetime_minute">%d분 전</string>
     <string name="format_datetime_second">방금</string>
     <string name="format_extra_count">%1$s 외 %2$d곳</string>
-    <string name="format_extra_test">%1$s 외 %2$d곳</string>
 </resources>
