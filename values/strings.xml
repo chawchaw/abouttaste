@@ -1,0 +1,353 @@
+<resources>
+    <string name="app_name">aboutTASTE</string>
+
+    <string name="text1">위치선택</string>
+    <string name="text2">댓글 쓰기</string>
+    <string name="text3">이벤트</string>
+    <string name="text4">참여하기</string>
+    <string name="text5">식당 예약</string>
+    <string name="text6">성함</string>
+    <string name="text7">예약 일</string>
+    <string name="text8">*식당정보에서 영업시간을 확인해주세요.</string>
+    <string name="text9">인원 수</string>
+    <string name="text10">명</string>
+    <string name="text11">핸드폰 번호</string>
+    <string name="text12">식당예약시 주의사항</string>
+    <string name="text13"><![CDATA[
+        - 본 어플리케이션을 통한 예약 취소는 예약 날짜 <font color="#FFD200">하루 전</font>까지 가능합니다.
+    ]]></string>
+    <string name="text14"><![CDATA[
+        - 예약 일시에 레스토랑 방문 후 <font color="#FFD200">예약자 성함</font>을 말씀해주세요!
+    ]]></string>
+    <string name="text15"><![CDATA[
+        - 예약 당일 <font color="#FFD200">20분 이상 방문이 지연</font>되실 경우 예약이 자동 취소됩니다.
+    ]]></string>
+    <string name="text16"><![CDATA[
+        - 연락 가능하신 <font color="#FFD200">핸드폰 번호</font>를 정확하게 입력해 주세요! 예약하신 정보가 입력해 주신 번호로 예약 안내 문자메세지가 발송됩니다.
+    ]]></string>
+    <string name="text17"><![CDATA[
+        - 예약 확인 및 맛평가는 <font color="#FFD200">마이페이지 > 이벤트참여</font> 에서 확인 및 참여하실 수 있습니다.
+    ]]></string>
+    <string name="text18">예약하기</string>
+    <string name="text19">수정하기</string>
+    <string name="text20">맛</string>
+    <string name="text21">분위기</string>
+    <string name="text22">서비스</string>
+    <string name="text23">가격</string>
+    <string name="text24">접근성(위치)</string>
+    <string name="text25">재방문</string>
+    <string name="text26">기타의견</string>
+    <string name="text27">표정으로 말해요</string>
+    <string name="text28">완전 만족</string>
+    <string name="text29">만족</string>
+    <string name="text30">보~통</string>
+    <string name="text31">실망</string>
+    <string name="text32">완전 실망</string>
+    <string name="text33">맛 평가</string>
+    <string name="text34">확인</string>
+    <string name="text35">건너뛰기</string>
+    <string name="text36">맛집검색</string>
+    <string name="text37">검색어를 입력해주세요!</string>
+    <string name="text38">검색</string>
+    <string name="text39">오늘 뭐 먹지?</string>
+    <string name="text40">사다리게임\n시작하기</string>
+    <string name="text41">홈으로 가기</string>
+    <string name="text42">지역을 선택 해주세요!</string>
+    <string name="text43">아이콘을 선택 해주세요!</string>
+    <string name="text44">자세히 보기</string>
+    <string name="text45">재시작</string>
+    <string name="text46">리뷰 작성</string>
+    <string name="text47">선택 완료</string>
+    <string name="text48">전체</string>
+    <string name="text49">설정</string>
+    <string name="text50">고객센터</string>
+    <string name="text51">이용방법</string>
+    <string name="text52">페이스북</string>
+    <string name="text53">알림설정</string>
+    <string name="text54">이용약관</string>
+    <string name="text55">개인정보취급방침</string>
+    <string name="text56">위치기반서비스 이용약관</string>
+    <string name="text57">법적공지</string>
+    <string name="text58">로그인</string>
+    <string name="text59">버전정보</string>
+    <string name="text60">ON</string>
+    <string name="text61">OFF</string>
+    <string name="text62">언어</string>
+    <string name="text63">회원님들의 의견은 About Taste 앱 업데이트에 많은 도움이 됩니다! 사용 중 오류사항이나 개선사항을 보내주세요! :)</string>
+    <string name="text64">제목</string>
+    <string name="text65">내용</string>
+    <string name="text66">전송하기</string>
+    <string name="text67">로그아웃</string>
+    <string name="text68">페이스북</string>
+    <string name="text69">카카오</string>
+    <string name="text70">현재 버전</string>
+    <string name="text71">최신 버전</string>
+    <string name="text72">현재 최신버전 입니다.</string>
+    <string name="text73">최신 버전 업데이트 하기</string>
+    <string name="text74">공지</string>
+    <string name="text75">알림</string>
+    <string name="text76">설정</string>
+    <string name="text77">팔로잉</string>
+    <string name="text78">팔로워</string>
+    <string name="text79">좋아요</string>
+    <string name="text80">신고</string>
+    <string name="text81">식당 리뷰</string>
+    <string name="text82">찜하기</string>
+    <string name="text83">좋아요</string>
+    <string name="text84">칼럼 북마크</string>
+    <string name="text85">이벤트 참여</string>
+    <string name="text86">MY</string>
+    <string name="text87">팔로잉</string>
+    <string name="text88">내 리뷰</string>
+    <string name="text89">아직 작성하신 리뷰가 없습니다!</string>
+    <string name="text90">아직 찜하기 하신 내역이 없습니다!</string>
+    <string name="text91">아직 좋아요 하신 내역이 없습니다!</string>
+    <string name="text92">아직 북마크하신 칼럼이 없습니다!</string>
+    <string name="text93">About Taste만의 다양한 칼럼을 만나보세요!</string>
+    <string name="text94">아직 참여하신 이벤트가 없습니다!</string>
+    <string name="text95">이벤트 참여하기로 다양한 쿠폰을 받아보세요!</string>
+    <string name="text96">예약확인</string>
+    <string name="text97">맛 평가</string>
+    <string name="text98">쿠폰확인</string>
+    <string name="text99">예약취소</string>
+    <string name="text100">*예약취소는 예약 하루 전까지만 가능합니다.</string>
+    <string name="text101">*예약시간 20분 경과시 자동으로 취소됩니다.</string>
+    <string name="text102">예약 상황</string>
+    <string name="text103">About Taste 맛 평가 쿠폰</string>
+    <string name="text104">레스토랑 할인쿠폰</string>
+    <string name="text105">쿠폰 사용 완료</string>
+    <string name="text106">다른이벤트에 참여해주세요.</string>
+    <string name="text107">쿠폰 사용하기</string>
+    <string name="text108">가게 담당자에게 보여주세요.</string>
+    <string name="text109">쿠폰 사용을 누르시면\n재사용이 불가능합니다.</string>
+    <string name="text110">사용을 원하시면 "네"를 입력해주세요.</string>
+    <string name="text111">네</string>
+    <string name="text112">공지사항</string>
+    <string name="text113">제휴문의</string>
+    <string name="text114">사업자\n등록번호</string>
+    <string name="text115">이메일 주소</string>
+    <string name="text116">이메일</string>
+    <string name="text117">기타 문의</string>
+    <string name="text118">문의 하기</string>
+    <string name="text119">필터</string>
+    <string name="text120">레스토랑 이벤트</string>
+    <string name="text121">검색 결과</string>
+    <string name="text122">리뷰보기</string>
+    <string name="text123">가격확인</string>
+    <string name="text124">위치확인</string>
+    <string name="text125">검색어를 입력해주세요.</string>
+    <string name="text126">최근 검색어</string>
+    <string name="text127">인기 검색어</string>
+    <string name="text128">정렬</string>
+    <string name="text129">랜덤</string>
+    <string name="text130">좋아요</string>
+    <string name="text131">맞춤추천</string>
+    <string name="text132">음식 종류</string>
+    <string name="text133">한식</string>
+    <string name="text134">일식</string>
+    <string name="text135">양식</string>
+    <string name="text136">중식</string>
+    <string name="text137">세계요리</string>
+    <string name="text138">바&amp;펍</string>
+    <string name="text139">디저트,카페</string>
+    <string name="text140">기타</string>
+    <string name="text141">가격대</string>
+    <string name="text142">1만원 이하</string>
+    <string name="text143">1만원~2만원</string>
+    <string name="text144">2만원~3만원</string>
+    <string name="text145">3만원 이상</string>
+    <string name="text146">선택 완료</string>
+    <string name="text147">칼럼</string>
+    <string name="text148">마이페이지</string>
+    <string name="text149">홈으로</string>
+    <string name="text150">맛집등록</string>
+    <string name="text151">리뷰등록</string>
+    <string name="text152">리뷰작성</string>
+    <string name="text153">사진보기</string>
+    <string name="text154">식당정보변경</string>
+    <string name="text155">REVIEW</string>
+    <string name="text156">블로그 리뷰</string>
+    <string name="text157">리뷰 더 보기 \u2192</string>
+    <string name="text158">이런 맛집 어때요?</string>
+    <string name="text159">폴더를 선택하세요</string>
+    <string name="text160">새 폴더 추가</string>
+    <string name="text161">새 폴더 이름</string>
+    <string name="text162">취소</string>
+    <string name="text163">확인</string>
+    <string name="text164">찾으시는 맛집이 없으신가요?</string>
+    <string name="text165">맛집 등록하기</string>
+    <string name="text166">작성 완료</string>
+    <string name="text167">리뷰 신고하기</string>
+    <string name="text168">자세한 신고사항을 적어주세요.</string>
+    <string name="text169">ex.돈받고 홍보하는 느낌이에요.</string>
+    <string name="text170">신고사항 접수하기</string>
+    <string name="text171">식당 정보 수정하기</string>
+    <string name="text172">자세한 수정사항을 적어주세요.</string>
+    <string name="text173">ex.식당정보에는 가격대가 만원대라고 써있는데 샐러드가 만원대고 주메뉴는 3만원부터에요</string>
+    <string name="text174">수정 사항 접수하기</string>
+    <string name="text175">회원정보 수정</string>
+    <string name="text176">비밀번호</string>
+    <string name="text177">전화번호</string>
+    <string name="text178">성별</string>
+    <string name="text179">완료</string>
+    <string name="text180">약관동의</string>
+    <string name="text181">(회원가입시 필수항목은 자동선택됩니다)</string>
+    <string name="text182">이용약관(필수)</string>
+    <string name="text183">개인정보취급방침(필수)</string>
+    <string name="text184">위치기반 서비스 이용약관(선택)</string>
+    <string name="text185">닉네임</string>
+    <string name="text186">사진선택</string>
+    <string name="text187">맛집등록</string>
+    <string name="text188">맛집 이름</string>
+    <string name="text189">지역 및 위치</string>
+    <string name="text190">상세 정보 작성</string>
+    <string name="text191">영업시간/휴무일</string>
+    <string name="text192">주차여부</string>
+    <string name="text193">가격대(1인 기준)</string>
+    <string name="text194">댓글</string>
+    <string name="text195">입력하기</string>
+    <string name="text196">기본폴더에 저장하기</string>
+    <string name="text197">아직 사진이 없습니다!\n사진을 등록해주세요!</string>
+    <string name="text198">사진등록</string>
+    <string name="text199">사진 올리기</string>
+    <string name="text200">북마크 하기</string>
+    <string name="text201">북마크 완료</string>
+    <string name="text202">종료된 이벤트 입니다.\n다른 이벤트에 참여해주세요.</string>
+    <string name="text203">인증요청</string>
+    <string name="text204">사다리게임</string>
+    <string name="text205">필터 초기화</string>
+    <string name="text206">국내</string>
+    <string name="text207">해외</string>
+    <string name="text208">about taste의 다양한 기능을 사용하시려면 로그인해주세요</string>
+    <string name="text209">로그인 하기</string>
+    <string name="text210">식당위치선택</string>
+    <string name="text211">자세히 보기</string>
+    <string name="text212">위치 보기</string>
+    <string name="text213">인증완료</string>
+    <string name="text214">인증요청 중</string>
+    <string name="text215">주소 복사</string>
+    <string name="text216">지역을 선택해주세요.</string>
+
+
+    <!-- 식당 정보 수정하기 -->
+    <string name="modify_request_1">매장이 존재하지 않습니다.</string>
+    <string name="modify_request_2">음식의 종류가 다릅니다.</string>
+    <string name="modify_request_3">리뷰가 광고성입니다.</string>
+    <string name="modify_request_4">위치가 다릅니다.</string>
+    <string name="modify_request_5">전화번호가 다릅니다.</string>
+    <string name="modify_request_6">가격대가 다릅니다.</string>
+
+    <!-- 리뷰 신고 -->
+    <string name="review_report_1">비속어를 사용합니다.</string>
+    <string name="review_report_2">같은 내용으로 도배되어 있습니다.</string>
+    <string name="review_report_3">리뷰가 광고성입니다.</string>
+    <string name="review_report_4">관계없는 내용의 리뷰입니다.</string>
+    <string name="review_report_5">다른 사람의 리뷰를 도용했습니다.</string>
+
+    <!-- 성별 선택 -->
+    <string name="gender_1">비공개</string>
+    <string name="gender_2">여성</string>
+    <string name="gender_3">남성</string>
+
+    <!-- 표정 선택 -->
+    <string-array name="choice_grade">
+        <item>완전 만족</item>
+        <item>만족</item>
+        <item>보~통</item>
+        <item>실망</item>
+        <item>완전 실망</item>
+    </string-array>
+
+    <!-- 예약 상황 -->
+    <string-array name="choice_reservation_status">
+        <item>신청</item>
+        <item>불가</item>
+        <item>승인</item>
+        <item>참여 완료</item>
+        <item>취소</item>
+    </string-array>
+
+    <!-- Hint -->
+    <string name="hint_1">ex)at레스토랑</string>
+    <string name="hint_2">ex)서울시 강남구</string>
+    <string name="hint_3">ex)02-1234-5678</string>
+    <string name="hint_4">ex)11시~23시/매주 월요일</string>
+    <string name="hint_5">ex)가능-건물 지하 주차장</string>
+    <string name="hint_6">댓글을 입력해 주세요.</string>
+
+    <!-- Popup Activity -->
+    <string name="popup_1">평가가 완료되었습니다. 마이페이지에서 쿠폰을 확인하세요.</string>
+    <string name="popup_2">예약승인 대기중입니다.</string>
+    <string name="popup_3">고객님의 의견이 접수되었습니다.</string>
+    <string name="popup_4">문의가 완료되었습니다.\n입력하신 메일로 견적서가\n발송됩니다.</string>
+    <string name="popup_5">리뷰 등록 완료!</string>
+    <string name="popup_6">
+        맛집 등록 성공!\n\n
+
+        어바웃테이스트에 새로운 맛집을 등록해 주셔서 감사합니다!\n
+        회원님께서 등록해 주신 맛집 정보는\n
+        어바웃테이스트팀의 꼼꼼한 검토와 보완을 거쳐 업데이트됩니다.
+    </string>
+    <string name="popup_7">입력하신 이메일로 인증메일을 보내드렸습니다. 이메일에 있는 링크를 통해서 인증을 완료해주세요.</string>
+    <string name="popup_8">올바른 이메일을 입력해주세요.</string>
+
+    <!-- Validation Message -->
+    <string name="validation_1">2글자 이상 20글자 이하로 입력해주세요.</string>
+    <string name="validation_2">예약 일을 선택해주세요.</string>
+    <string name="validation_3">1명이상 입력해주세요.</string>
+    <string name="validation_4">9자이상 20자 이하로 입력해주세요.</string>
+    <string name="validation_5">빈칸을 채워주세요.</string>
+    <string name="validation_6">표정을 선택해주세요.</string>
+    <string name="validation_7">2글자 이상 128글자 이하로 입력해주세요.</string>
+    <string name="validation_8">이메일을 입력해주세요.</string>
+    <string name="validation_9">사진을 하나 이상 선택해주세요.</string>
+    <string name="validation_10">항목을 선택해주세요.</string>
+    <string name="validation_11">성별을 선택해주세요.</string>
+    <string name="validation_12">비밀번호를 9자이상 20자 이하로 입력하거나 변경하지 않고 싶으시면 공백으로 남겨두세요.</string>
+    <string name="validation_13">음식 종류를 하나이상 선택해주세요.</string>
+
+    <!-- Toast Message -->
+    <string name="toast_1">이미 참여하셨습니다.</string>
+    <string name="toast_2">예약이 승인되지 않았습니다.</string>
+    <string name="toast_3">이미 사용하셨습니다.</string>
+    <string name="toast_4">"네"를 입력해주세요.</string>
+    <string name="toast_5">쿠폰이 발급되지 않았습니다.</string>
+    <string name="toast_6">변경되었습니다.</string>
+    <string name="toast_7">기본폴더는 삭제하거나 이름을 변경할수 없습니다.</string>
+    <string name="toast_8">주소를 복사하였습니다.</string>
+    <string name="toast_9">요청하신 일시에 예약이 어려우니 다른 날짜를 선택해 주세요.</string>
+
+
+    <!-- Dialog & SnackBar-->
+    <string name="dialog_1">사진을 지울까요?</string>
+    <string name="dialog_2">네</string>
+    <string name="dialog_3">아니요</string>
+    <string name="dialog_4">북마크를 삭제할까요?</string>
+    <string name="dialog_5">이름을 변경하시겠어요?</string>
+    <string name="dialog_6">이름변경</string>
+    <string name="dialog_7">폴더를 삭제하시겠어요?(안에 있는 모든 북마크도 삭제됩니다.)</string>
+    <string name="dialog_8">삭제하기</string>
+    <string name="dialog_9">이름변경/삭제</string>
+    <string name="dialog_10">새 이름을 입력해주세요.</string>
+    <string name="dialog_11">취소</string>
+    <string name="dialog_12">로그인이 필요한 서비스입니다.</string>
+    <string name="dialog_13">로그인을 하시겠습니까?</string>
+
+    <!-- Error Message -->
+    <string name="error_1">올바른 접근이 아닙니다.</string>
+    <string name="error_2">인증정보가 필요합니다. 로그인을 해주세요.</string>
+    <string name="error_3">네트워크가 불안정합니다. 인터넷 연결을 확인해주세요.</string>
+    <string name="error_4">예약 승인 후 취소를 하기 위해서는 해당 음식점에 직접 전화로 취소해주세요.</string>
+
+    <!-- Format -->
+    <string name="format_datetime">yyyy-MM-dd</string>
+    <string name="format_datetime_short">MM/dd</string>
+    <string name="format_datetime_long">yyyy-MM-dd HH:mm</string>
+    <string name="format_datetime_year">%d년 전</string>
+    <string name="format_datetime_month">%d달 전</string>
+    <string name="format_datetime_day">%d일 전</string>
+    <string name="format_datetime_hour">%d시간 전</string>
+    <string name="format_datetime_minute">%d분 전</string>
+    <string name="format_datetime_second">방금</string>
+    <string name="format_extra_count">%1$s 외 %2$d곳</string>
+</resources>
